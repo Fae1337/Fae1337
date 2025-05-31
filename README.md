@@ -1,7 +1,7 @@
 <div id=text  align="center">
   **I STUDY HTTP/HTTPS TRAFFIC.WRITE IN PYTHON.**
   
-</div>
+</div>   
 
 <div id="badges" align="center">
   <a href="https://steamcommunity.com/id/failure-/">
