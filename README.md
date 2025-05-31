@@ -1,7 +1,7 @@
-<div id=text  align="center">
-  **I STUDY HTTP/HTTPS TRAFFIC.WRITE IN PYTHON.**
-  
-</div>
+<p>Текст перед горизонтальной линией.</p>
+<hr>
+<p>Текст после горизонтальной линии.</p>
+
 <b></b>
 <div id="badges" align="center">
   <a href="https://steamcommunity.com/id/failure-/">
