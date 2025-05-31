@@ -1,5 +1,5 @@
 I study http/https traffic.               Write in python.
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://steamcommunity.com/id/failure-/">
     <img src="https://img.shields.io/badge/Steam-gray?style=for-the-badge&logo=Steamin&logoColor=white" alt="Steam"/>
   </a>
