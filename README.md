@@ -1,8 +1,8 @@
 <div id=text  align="center">
   **I STUDY HTTP/HTTPS TRAFFIC.WRITE IN PYTHON.**
   
-</div>   
-
+</div>
+<b></b>
 <div id="badges" align="center">
   <a href="https://steamcommunity.com/id/failure-/">
     <img src="https://img.shields.io/badge/Steam-gray?style=for-the-badge&logo=Steamin&logoColor=white" alt="Steam"/>
