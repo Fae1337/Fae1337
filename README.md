@@ -1,9 +1,9 @@
 `I study http/https traffic and write in python.`   
 <div id="badges">
   <a href="https://steamcommunity.com/id/failure-/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Steamin&logoColor=white" alt="Steam"/>
+    <img src="https://img.shields.io/badge/Steam-gray?style=for-the-badge&logo=Steamin&logoColor=white" alt="Steam"/>
   </a>
   <a href="https://discord.gg/dDAdxJpaf4">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
