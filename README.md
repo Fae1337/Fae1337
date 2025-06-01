@@ -12,5 +12,5 @@
 <p>Интересуюсь http/https трафиком и его перехватом с сайтов,лоадеров.Использую http debugger,burp suite,jvm exploarer</p>
 
 <div id="url" align="center">
-  <a href="https://steamcommunity.com/id/failure-/">Steam</a> | <a href="https://discord.gg/dDAdxJpaf4">Discord</a>
+  <a href="https://steamcommunity.com/id/failure-/">Steam</a> | <a onclick="prompt('copy', 'alekzov14');" href="#">Discord</a>
 </div>
