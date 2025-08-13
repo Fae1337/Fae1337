@@ -1,1 +1,1 @@
-![Описание GIF](https://media.discordapp.net/attachments/937411994322092113/1171662534189781072/autodisconnect-1-1.gif?ex=689e0a04&is=689cb884&hm=09a3df8d2442ca69cceccf04a7dbbf1b9c9e5173c73718cd48756cfdf7022901&format=webp&animated=true)
+![Описание GIF](https://media.discordapp.net/attachments/937411994322092113/1171662534189781072/autodisconnect-1-1.gif?ex=689e0a04&is=689cb884&hm=09a3df8d2442ca69cceccf04a7dbbf1b9c9e5173c73718cd48756cfdf7022901&format=webp&animated=true=size4) 
