@@ -1,1 +1,1 @@
-<img src="https://images-ext-1.discordapp.net/external/ZHFvuy0HbaJ1vtEmr_5XeAGy2m1wAjewzuJAnK3fDK4/https/media.tenor.com/Om0KsHPqU4QAAAPo/putin-president.mp4">
+![Описание GIF](https://media.discordapp.net/attachments/937411994322092113/1171662534189781072/autodisconnect-1-1.gif?ex=689e0a04&is=689cb884&hm=09a3df8d2442ca69cceccf04a7dbbf1b9c9e5173c73718cd48756cfdf7022901&format=webp&animated=true)
