@@ -1,1 +1,1 @@
-https://media.discordapp.net/attachments/1208375270424313917/1302332838145818654/attachment.gif?ex=689d7cb8&is=689c2b38&hm=6b6aa989d0723b5887bdb5d238d7af126a59198afc012589d6e5aab36d72b8f6&format=webp&animated=true
+<img src="https://images-ext-1.discordapp.net/external/ZHFvuy0HbaJ1vtEmr_5XeAGy2m1wAjewzuJAnK3fDK4/https/media.tenor.com/Om0KsHPqU4QAAAPo/putin-president.mp4">
