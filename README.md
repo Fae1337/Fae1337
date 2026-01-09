@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8FF700&width=435&lines=What+if+autism+was+a+coder+%3F;-+Daltonik" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8FF700&width=435&lines=What+if+autism+was+a+coder+%3F;-+Dalton" alt="Typing SVG" /></a>
